@@ -8,5 +8,6 @@ Aqui está o print:
 
 ---
 
-
-<img src="gif.gif" alt="gif" widht="50" height="50">
+<p align="center">
+<img src="gif.gif" alt="gif" widht="300">
+</p>
