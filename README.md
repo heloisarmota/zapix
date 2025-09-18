@@ -1,4 +1,4 @@
-# Hello Word! # ❤️
+# Hello Word! ❤️
 
 ---
 Usei o git no vs.code pela primeira vez.
